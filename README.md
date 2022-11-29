@@ -6,7 +6,11 @@
 
 > Note: To change the size of the logo simply edit the CSS variable of `--size` under the `style` tag!
 
+---
+
 ### Embedding the HTML as a `foreignObject` element inside an SVG directly
 
 ![](embed.svg)
+
+
 
